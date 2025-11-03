@@ -1,2 +1,3 @@
 # Blackjack-single-player-
-A python code for a single player black jack game where the player plays against the user
+# A Python code for a single-player blackjack game where the player plays against the user
+# The file is in the repository.
